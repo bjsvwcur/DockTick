@@ -47,9 +47,9 @@ Zeigt, welche Leserprofile primär an welchen Kapiteln interessiert sind.
 * **Erfassung:** 
   * Wie werden die Daten erfasst: Es wird unterschieden zwischen einer **Standard Erfassung im QGIS** und der **Erfassung in einer Fachapplikation**
   
-    * **Standard Erfassung im QGIS**: Wo ist das Projekt abgelegt. Wie werden die Daten erfasst. Gibt es besonderes was zu beachten ist?
+    * Standard Erfassung im QGIS: Wo ist das Projekt abgelegt. Wie werden die Daten erfasst. Gibt es besonderes was zu beachten ist?
     
-    * **Erfassung in einer Fachapplikation**: Welche Schnittstellen von der GDI betrifft es.
+    * Erfassung in einer Fachapplikation: Welche Schnittstellen von der GDI betrifft es.
     
   * Wo werden die Daten gehostet
   
