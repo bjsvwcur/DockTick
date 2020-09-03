@@ -1,5 +1,5 @@
 # Richtlinien Funktionale Einheiten
-Die "Funktionale Einheiten" beschreiben die Subsysteme der GDI.
+Die "Funktionale Einheiten" dokumentieren die Subsysteme der GDI.
 ## Leserprofile der Dokumentation
 Zwecks Erstellung leserfreundlicher und vollständiger Dokumentation muss jeweils bekannt sein, für welche Leserprofile
 welche Kapitel geschrieben wurden, und wo einem Leserprofil zur Orientierung innerhalb der Dokumentation geholfen werden muss.
@@ -39,7 +39,7 @@ Zeigt, welche Leserprofile primär an welchen Kapiteln interessiert sind.
 |Interne Struktur| | | |x|
     
 # Richtlinien "rote Fäden"
-"rote Fäden" sind Dokumentatinen zu einem fachlichen Thema oder einem definierten Projektablauf. Diese Dokumentationen werden nach folgenden Punkten gegliedert:
+"rote Fäden" sind Dokumentationen zu einem fachlichen Thema oder einem definierten Projektablauf. Diese Dokumentationen werden nach folgenden Punkten gegliedert:
 
 * **Verantwortlicher**: Projektverantwortlicher
 * **Überblick**: Kurze Beschreibung/Übersicht des Projektes, Projektinhaltes und Projektablaufs
