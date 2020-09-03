@@ -39,5 +39,18 @@ Zeigt, welche Leserprofile primär an welchen Kapiteln interessiert sind.
 |Konfiguration und Betrieb in der GDI| | |x| |
 |Interne Struktur| | | |x|
     
+## Richtlinien "rote Fäden"
+"rote Fäden" sind Dokumentatinen zu einem fachlichen Thema oder einem definierten Projektablauf welche über eine Funktionale Einheit hinausgehen. Diese Dokumentationen werden nach folgenden Punkten gegliedert:
 
-
+* **Verantwortlicher**: Projektverantwortlicher
+* **Überblick**: Kurze Beschreibung/Übersicht des Projektes, Projektinhaltes und Projektablaufs
+* **Erfassung:** 
+  * Wie werden die Daten erfasst: Es wird unterschieden zwischen einer **Standard Erfassung im QGIS** und einer **Erfassung in einer Fachapplikation**
+    * **Standard Erfassung im QGIS**: Wo ist das Projekt abgelegt. Wie werden die Daten erfasst. Gibt es besonderes was zu beachten ist?
+    * **Erfassung in einer Fachapplikation**: Welche Schnittstellen von der GDI betrifft es.
+  * Wo werden die Daten gehostet
+  * Anleitungen zur Erfassung der Daten
+* **Publikation:**
+  * Wo werden die Daten publiziert (QGIS Projekt, Layer Web GIS Client, ...)
+  * Wie werden die Daten publiziert (Gretljob, ...)
+  * Anleitungen zur Publikation der Daten
