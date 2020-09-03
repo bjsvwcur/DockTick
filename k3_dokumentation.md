@@ -49,8 +49,8 @@ Zeigt, welche Leserprofile primär an welchen Kapiteln interessiert sind.
     * *Standard Erfassung im QGIS*: Wo ist das Projekt abgelegt. Wie werden die Daten erfasst. Gibt es besonderes was zu beachten ist?    
     * *Erfassung in einer Fachapplikation*: Welche Schnittstellen von der GDI betrifft es.    
   * Wo werden die Daten gehostet  
-  * Anleitungen zur Erfassung der Daten
+  * Anleitung zur Erfassung der Daten
 * **Publikation:**
   * Wo werden die Daten publiziert (QGIS Projekt, Layer Web GIS Client, ...)
   * Wie werden die Daten publiziert (Gretljob, ...)
-  * Anleitungen zur Publikation der Daten
+  * Anleitung zur Publikation der Daten
