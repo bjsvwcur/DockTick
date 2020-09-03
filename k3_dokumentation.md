@@ -1,9 +1,8 @@
-# "Leserprofile" und Inhalte der Komponentendoku
-
+# Richtlinien Funktionale Einheiten
+Die "Funktionale Einheiten" beschreiben die Subsysteme der GDI.
+## Leserprofile der Dokumentation
 Zwecks Erstellung leserfreundlicher und vollständiger Dokumentation muss jeweils bekannt sein, für welche Leserprofile
 welche Kapitel geschrieben wurden, und wo einem Leserprofil zur Orientierung innerhalb der Dokumentation geholfen werden muss.
-
-## Leserprofile der Dokumentation
 
 * **Endbenutzer:** Nutzt die grafische Oberfläche der Komponente. Kapitel entspricht dem "Benutzerhandbuch".
 Hat kein Interesse an den technischen Zusammenhängen.
@@ -39,7 +38,7 @@ Zeigt, welche Leserprofile primär an welchen Kapiteln interessiert sind.
 |Konfiguration und Betrieb in der GDI| | |x| |
 |Interne Struktur| | | |x|
     
-## Richtlinien "rote Fäden"
+# Richtlinien "rote Fäden"
 "rote Fäden" sind Dokumentatinen zu einem fachlichen Thema oder einem definierten Projektablauf. Diese Dokumentationen werden nach folgenden Punkten gegliedert:
 
 * **Verantwortlicher**: Projektverantwortlicher
