@@ -39,8 +39,8 @@ Zeigt, welche Leserprofile primär an welchen Kapiteln interessiert sind.
 |Interne Struktur| | | |x|
     
 # Richtlinien "rote Fäden"
-"rote Fäden" sind Dokumentationen zu einem fachlichen Thema oder einem definierten Projektablauf. Diese Dokumentationen werden nach folgenden Punkten gegliedert:
-
+"rote Fäden" sind Dokumentationen zu einem fachlichen Thema oder einem definierten Projektablauf. 
+## Kapitel der Dokumentation
 * **Verantwortlicher**: Projektverantwortlicher
 * **Überblick**: Kurze Beschreibung/Übersicht des Projektes, Projektinhaltes und Projektablaufs
 * **Erfassung:** 
