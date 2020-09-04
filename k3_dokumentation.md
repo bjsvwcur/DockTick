@@ -53,3 +53,12 @@ Zeigt, welche Leserprofile primär an welchen Kapiteln interessiert sind.
   * Wo werden die Daten publiziert (QGIS Projekt, Layer Web GIS Client, ...)
   * Wie werden die Daten publiziert (Gretljob, ...)
   * Anleitung zur Publikation der Daten
+  
+# Richtlinien Anleitungen ausserhalb der Funktionalen Einheiten
+Anleitungen ausserhalb der Funktionalen Einheiten sind Arbeitsabläufe welche nicht einer Funktionalen Einheit zugeordnet werden können.
+## Kapitel der Dokumentation
+* **Verantwortlicher**: AGI MA welcher den Arbeitsablauf ausführt
+* **Überblick**: Kurze Beschreibung/Übersicht des Arbeitsablaufes
+* **Auslöser**: Wer löst den Arbeitsablauf aus
+* **Häufigkeit**: Wie Oft pro Monat/Jahr wird der Arbeitsabaluf ausgeführt
+* **Arbeitsablauf**: Anleitung zum Arbeitsablauf
