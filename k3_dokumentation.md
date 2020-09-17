@@ -6,7 +6,6 @@ welche Kapitel geschrieben wurden, und wo einem Leserprofil zur Orientierung inn
 
 * **Endbenutzer:** Nutzt die grafische Oberfläche der Komponente. Kapitel entspricht dem "Benutzerhandbuch".
 Hat kein Interesse an den technischen Zusammenhängen.
-* **Starter:** Will auf die Schnelle verstehen, wie die Komponente isoliert oder "im Verbund" gestartet und ausprobiert werden kann.
 * **GDI-Betrieb:** Will verstehen / dokumentieren, wie und wo die Komponente in der GDI konkret "installiert" ist.
 * **Entwickler:** Will wichtige Informationen zur grundsätzlichen internen Strukturierung verstehen 
 (In gröberem Masstab als die im Sourcecode enthaltene Klassen- / Methodendokumentation).
@@ -29,14 +28,14 @@ Die äusseren Abhängigkeiten sind meist zwingender Teil der Konfiguration.
 
 Zeigt, welche Leserprofile primär an welchen Kapiteln interessiert sind.
 
-|Profile >|Endbenutzer|Starter|GDI-Betrieb|Entwickler|
+|Profile >|Endbenutzer|GDI-Betrieb|Entwickler|
 |---|---|---|---|---|
-|**Kapitel:**| | | | |
-|Benutzung|x| | | |
-|Konfigurieren und starten| |x|x|x|
-|Externe Abhängigkeiten| |x|x|x|
-|Konfiguration und Betrieb in der GDI| | |x| |
-|Interne Struktur| | | |x|
+|**Kapitel:**| | | |
+|Benutzung|x| | |
+|Konfigurieren und starten| |x|x|
+|Externe Abhängigkeiten| |x|x|
+|Konfiguration und Betrieb in der GDI| |x| |
+|Interne Struktur| | |x|
     
 # Richtlinien "rote Fäden"
 "rote Fäden" sind Dokumentationen zu einem fachlichen Thema oder einem definierten Projektablauf. 
