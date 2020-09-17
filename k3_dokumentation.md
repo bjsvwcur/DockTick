@@ -29,7 +29,7 @@ Die äusseren Abhängigkeiten sind meist zwingender Teil der Konfiguration.
 Zeigt, welche Leserprofile primär an welchen Kapiteln interessiert sind.
 
 |Profile >|Endbenutzer|GDI-Betrieb|Entwickler|
-|---|---|---|---|---|
+|---|---|---|---|
 |**Kapitel:**| | | |
 |Benutzung|x| | |
 |Konfigurieren und starten| |x|x|
