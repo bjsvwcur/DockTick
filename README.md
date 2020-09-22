@@ -1,4 +1,5 @@
-# DockTick Amt für Geoinformation Kanton Solothurn
+![](https://github.com/bjsvwcur/DockTick/blob/master/Logo.png)
+# Dokumente Amt für Geoinformation
 
 ---
 
